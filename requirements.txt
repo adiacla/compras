@@ -1,0 +1,4 @@
+streamlit
+numpy
+install scikit-learn
+joblib
